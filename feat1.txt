@@ -1,2 +1,3 @@
 feature 1
 there are some updates
+change feat1 on feature 2 branch
